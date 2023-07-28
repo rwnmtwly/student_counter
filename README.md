@@ -27,7 +27,7 @@ The ultrasonic sensor detects the distance of an object and triggers the countin
 # Contributions
 * Team Member 1: [Abdulrahman Ali](https://github.com/Abdelrahman-Ali90)
 * Team Member 2: [Ahmed Fayad](https://github.com/0xAMF)
-* Team Member 3: [Amira Ayman]()
+* Team Member 3: [Amira Ayman](https://github.com/Amira2002)
 * Team Member 4: [Rawan Elnaggar](https://github.com/rwnmtwly)
 * Team Member 5: [Shimaa Esmat](https://github.com/Shimaa-esmat)
 * Team Member 6: [Tasneem Ashraf](https://github.com/tasnym1)
